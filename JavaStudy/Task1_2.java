@@ -13,9 +13,9 @@ public class Task1_2 {
         //④ ③で作成した配列の２番目の要素の出力しなさい
         System.out.println(strArray[1]);
 
-        //⑤下記のコメント
+        //⑤同じ型に複数の値をまとめている
         int[] intArray = { 10, 20, 30, 40, 50 };
-        //⑥下記のコメント
+        //⑥20+40=70を出力している
         System.out.println(intArray[1] + intArray[4]);
         
 
