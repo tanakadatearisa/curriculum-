@@ -1,4 +1,3 @@
-
 public class Task1_2 { 
     public static void main(String[] args) {
         //①「JAPAN」「AMERICA」「KOREA」を要素の値(初期値)とする配列 countryを作成しなさい
@@ -13,23 +12,11 @@ public class Task1_2 {
         //④ ③で作成した配列の２番目の要素の出力しなさい
         System.out.println(strArray[1]);
 
-        //⑤同じ型に複数の値をまとめている
+        //⑤10.20.30.40.50をインデックスしている
         int[] intArray = { 10, 20, 30, 40, 50 };
-        //⑥20+40=70を出力している
-        System.out.println(intArray[1] + intArray[4]);
-        
-
-
-
-        
-        
-        
-
-         
-
-        
-    }
-    
+        //⑥配列intArrayと2番目と5番目を足した値の70を表示している
+        System.out.println(intArray[1] + intArray[4]);       
+    }    
 }
 
 

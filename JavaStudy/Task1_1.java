@@ -6,7 +6,7 @@ public class Task1_1 {
         int hogeInt = 50;
         //Stringクラスの hogeString という名前の変数を宣言、値「テスト」で初期化
         String hogeString = "テスト";
-        //少数0.2を使用するのでdobuleを使用している
+        //hogeDoubleに0.2を記録している
         double hogeDouble = 0.2;
         //変数 hogeInt を値「100」で上書き
         hogeInt = 100;
