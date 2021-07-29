@@ -12,7 +12,7 @@ public class Task1_2 {
         //④ ③で作成した配列の２番目の要素の出力しなさい
         System.out.println(strArray[1]);
 
-        //⑤10.20.30.40.50をインデックスしている
+        //⑤10.20.30.40.50を要素の値(初期値)として配列 intArryを作成している
         int[] intArray = { 10, 20, 30, 40, 50 };
         //⑥配列intArrayと2番目と5番目を足した値の70を表示している
         System.out.println(intArray[1] + intArray[4]);       
