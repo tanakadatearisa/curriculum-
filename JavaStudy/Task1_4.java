@@ -28,7 +28,7 @@ public class Task1_4 {
         //定数を使用して「ログイン成功です」と出力してください。
 
 
-        if (name==USER_NAME && Pass==USER_PASSWORD) {
+        if (name.equals(USER_NAME) && Pass.equals(USER_PASSWORD)) {
             System.out.println(CONST_MSG_SUCCESS); 
         }
         //③「USER_NAME」の値のみ等しい場合。
